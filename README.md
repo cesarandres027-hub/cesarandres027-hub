@@ -47,6 +47,7 @@ Ingeniero Comercial especializado en **análisis de datos, Business Intelligence
 | Proyecto | Descripción | Tipo |
 |---|---|---|
 | 📊 **[Dashboard de Clima + IA](https://github.com/cesarandres027-hub/dashboard-encuestas-clima)** | Dashboard interactivo de clima organizacional (Chart.js) conectado a Google Sheets vía Apps Script, con agente de IA y resumen ejecutivo en PDF. **Demo con datos de ejemplo incluida.** | 🟢 Código |
+| 🎓 **[Digital IQ — Capacitación gamificada](https://github.com/cesarandres027-hub/digital-iq-capacitacion)** | Plataforma React + Google Sheets/Apps Script con niveles, leaderboard, beneficios y asistente IA. Automatiza un proceso de RRHH. **Demo con datos de ejemplo.** | 🟢 Código |
 | 📊 **[Licitaciones Analytics](https://github.com/cesarandres027-hub/licitaciones-analytics)** | Pipeline en Python que detecta y rankea oportunidades en Mercado Público mediante *scoring* por palabras clave. Reporte en consola, JSON, CSV y PDF. | 🟢 Código |
 | ⚽ **[Modelo Estadístico de Goles](https://github.com/cesarandres027-hub/futbol-modelo-estadistico)** | Modelado probabilístico (Dixon-Coles Poisson + ensemble) con *backtesting* honesto y validación *out-of-sample*. | 📊 Case study |
 | ☕ **[Modelo Financiero](https://github.com/cesarandres027-hub/modelo-financiero-cafeteria)** | Evaluación de negocio (VAN, TIR, payback) generada por código con Python + openpyxl y análisis de escenarios. | 📊 Case study |
